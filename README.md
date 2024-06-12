@@ -43,14 +43,13 @@ Welcome to the E-commerce App, a modern and scalable web-based application desig
       ```cd e-commerce-app ```
 
 3.Install server dependencies:
-
-      ```npm install ```
+         ```npm install ```
+     
 
 4.Install client dependencies:
-
-      ```cd Frontend ```
-      ```npm install ```
-      ```cd .. ```
+         ```cd Frontend ```
+         ```npm install ```
+         ```cd .. ```
 
 
 ### Usage
